@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012547185668",
+    "firebase_url": "https://kingkong1-3427a.firebaseio.com",
+    "project_id": "kingkong1-3427a",
+    "storage_bucket": "kingkong1-3427a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012547185668:android:12ce6de584b1721b73d951",
+        "android_client_info": {
+          "package_name": "com.ailadev.kingkong1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012547185668-gdbk2ev9hrlrs40ntj90097gpa96e1qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ailadev.kingkong1",
+            "certificate_hash": "829d8d5112a877daf42650f11c035218434ca7f6"
+          }
+        },
+        {
+          "client_id": "1012547185668-lsma6jmpj4966aie5dfvfodr38kjuli6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH8SUDVxou82-EcQXvpEqZ1l-0Hy4KBfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012547185668-lsma6jmpj4966aie5dfvfodr38kjuli6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
